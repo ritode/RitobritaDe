@@ -14,7 +14,7 @@
 </p>
 
 ### Connect with me:
-[🌏][website]
+[<img align="left" width="22px" src="https://github.com/RitobritaDe/RitobritaDe/blob/5a15cb8b5dcea5a3b651f7e781c248b6996f8125/globe.png" />]website]
 [<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
