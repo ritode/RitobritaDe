@@ -10,6 +10,7 @@
 <!-- - ⚡ Fun fact: ... -->
 <br>
 <p align="left"> 
+  <br>
 <img src="https://komarev.com/ghpvc/?username=RitobritaDe&color=brightgreen" alt="watching_count" />
 </p>
 
@@ -35,6 +36,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Matlab](https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1)&nbsp;
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics
 
