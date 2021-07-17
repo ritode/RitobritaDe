@@ -36,7 +36,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-[<img align="left" alt="MATLAB" width="26px" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1" />][git]
+!<img align="left" alt="MATLAB" width="26px" src="https://i0.wp.com/tech.msu.edu/wp-content/uploads/2018/11/Icon-Matlab_0.png?fit=230%2C230&ssl=1" />
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics
 
