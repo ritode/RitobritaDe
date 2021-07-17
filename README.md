@@ -8,7 +8,7 @@
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
+<br>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=RitobritaDe&color=brightgreen" alt="watching_count" />
 </p>
