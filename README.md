@@ -1,5 +1,5 @@
 ### Hi there, I'm Ritobrita 👋
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />:
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning little bit of everything!
 <!-- - 👯 I’m looking to collaborate on ... -->
