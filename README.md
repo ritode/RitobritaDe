@@ -1,10 +1,10 @@
 ### Hi there, I'm Ritobrita <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-* 🔭 I’m currently working on Front End Web Development <br>
-* 🌱 I’m currently learning little bit of everything!
-* 🌚 I see in Dark Mode.
-* 👩🏻‍💻 I have worked on:
-  * 🤖 Robotics
-  * 👾 Game Development
+* 🔭  I’m currently working on Front End Web Development <br>
+* 🌱  I’m currently learning little bit of everything!
+* 🌚  I see in Dark Mode.
+* 👩🏻‍💻  I have worked on:
+  * 🤖  Robotics
+  * 👾  Game Development
     
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
