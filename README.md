@@ -46,13 +46,13 @@
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/RitobritaDe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RitobritaDe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RitobritaDe&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ritode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritode&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-[website]: https://ritobritade.github.io/
+[website]: https://ritode.github.io/
 [instagram]: https://www.instagram.com/ritobrita.de/
 [linkedin]: https://www.linkedin.com/in/ritobrita-de/
 
