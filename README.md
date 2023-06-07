@@ -18,9 +18,9 @@
 </p>
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/5a15cb8b5dcea5a3b651f7e781c248b6996f8125/globe.png" />][website]
-[<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" width="22px" src="instagram.png" />][instagram]
+[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/5a15cb8b5dcea5a3b651f7e781c248b6996f8125/globe.png" alt="website" />][website]
+[<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/>][linkedin]
+[<img align="left" width="22px" src="instagram.png" alt="instagram"/>][instagram]
 
 <br />
 
@@ -39,8 +39,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-<img alt="MATLAB" width="80px" background-color="black" src="https://github.com/RitobritaDe/RitobritaDe/blob/aa7c043986a1ef81cf4058d027117d85fec14486/MATLAB.png" />
-<img alt="Unity3D" width="50px" src="https://github.com/RitobritaDe/RitobritaDe/blob/039c1f4772bf8eb4f4185fe6dfeeae363706ea6b/unity3d.png" />
+<img alt="MATLAB" width="80px" background-color="black" src="https://github.com/ritode/RitobritaDe/blob/aa7c043986a1ef81cf4058d027117d85fec14486/MATLAB.png" />
+<img alt="Unity3D" width="50px" src="https://github.com/ritode/RitobritaDe/blob/039c1f4772bf8eb4f4185fe6dfeeae363706ea6b/unity3d.png" />
 
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics
