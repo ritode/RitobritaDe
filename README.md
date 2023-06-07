@@ -18,9 +18,9 @@
 </p>
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/main/globe.png" alt="website" />][website]
+[<img align="left" width="22px" src="https://img.shields.io/badge/--05122A?style=flat&logo=aboutdotme" alt="website" />][website]
 [<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/>][linkedin]
-[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/main/instagram.png" alt="instagram"/>][instagram]
+[<img align="left" width="22px" src="https://img.shields.io/badge/--05122A?style=flat&logo=instagram" alt="instagram"/>][instagram]
 
 <br />
 
@@ -33,15 +33,21 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![ThreeJS](https://img.shields.io/badge/-ThreeJS-05122A?style=flat&logo=threedotjs)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 <img alt="MATLAB" width="80px" background-color="black" src="https://github.com/ritode/RitobritaDe/blob/aa7c043986a1ef81cf4058d027117d85fec14486/MATLAB.png" />
-<img alt="Unity3D" width="50px" src="https://github.com/ritode/RitobritaDe/blob/039c1f4772bf8eb4f4185fe6dfeeae363706ea6b/unity3d.png" />
 
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Analytics
