@@ -20,7 +20,7 @@
 ### Connect with me:
 [<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/5a15cb8b5dcea5a3b651f7e781c248b6996f8125/globe.png" />][website]
 [<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/23f170bdf6958944b0fb50bdc5ee2bfa8fe2d384/instagram.png" />][instagram]
+[<img align="left" width="22px" src="instagram.png" />][instagram]
 
 <br />
 
