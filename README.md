@@ -18,9 +18,9 @@
 </p>
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/c9987d46f2dc507fc58ffbc9d08bb12fe8f18abb/globe.png" alt="website" />][website]
+[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/main/globe.png" alt="website" />][website]
 [<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/>][linkedin]
-[<img align="left" width="22px" src="instagram.png" alt="instagram"/>][instagram]
+[<img align="left" width="22px" src="https://github.com/ritode/RitobritaDe/blob/main/instagram.png" alt="instagram"/>][instagram]
 
 <br />
 
