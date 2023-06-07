@@ -39,6 +39,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 <img alt="MATLAB" width="80px" background-color="black" src="https://github.com/ritode/RitobritaDe/blob/aa7c043986a1ef81cf4058d027117d85fec14486/MATLAB.png" />
 <img alt="Unity3D" width="50px" src="https://github.com/ritode/RitobritaDe/blob/039c1f4772bf8eb4f4185fe6dfeeae363706ea6b/unity3d.png" />
 
